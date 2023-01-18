@@ -17,6 +17,7 @@ Parancssorban PAT-al:
 
 -Elmentjük a helyi repóba:
     -**git commit -m "First commit"**
+    
 -Ellenőrzés:
     -**git status**
 
